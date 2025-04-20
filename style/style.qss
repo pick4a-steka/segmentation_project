@@ -1,0 +1,22 @@
+* {
+    color: white;
+    font-size: 14px;
+    background-color: #3A3A3A;
+}
+
+QGraphicsView {
+    border-radius: 5px;
+}
+
+QWidget#widget_options {
+    border-radius: 5px;
+}
+
+QLabel#label_transparency {
+    margin-top: 10px;
+}
+
+QGroupBox {
+    background-color: #848484;
+    border: 1px solid #e0e4e7
+}
